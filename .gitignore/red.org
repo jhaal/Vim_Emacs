@@ -1,0 +1,6 @@
+* This is, as the name suggests a testbench cum workbench
+** Different completed/semi-completed projects reside here
+** Do not rely on the data or codes residing here. These are mostly beta or testing
+** **Author Alok Jha**
+** License
+** **This work is under MIT license***
